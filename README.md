@@ -1,6 +1,6 @@
 # BkStringMatch
 
-BkStringMatch is a pure-python implementation for efficient string matching and nearest-neighbor searches that leverages BK tree structures and a variety of string distance metrics.
+BkStringMatch is a pure-python implementation for efficient string matching and nearest-neighbor searches that leverages BK tree structures using a variety of string distance metrics.
 
 ## Features
 
