@@ -1,7 +1,7 @@
 # --- User Parameters
 
 # Django directory
-PROJECT_NAME=bktree
+PROJECT_NAME=bkcore
 
 # Testing parameters
 NPROCS=auto
