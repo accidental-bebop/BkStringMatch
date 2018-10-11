@@ -31,7 +31,7 @@ exact_match = bk_search('search-string', tree, 1)
 
 Search tree for fuzzy matches with maximum distance of 3
 ```
-fuzzy_search = bk_search('search-string', 3)
+fuzzy_search = bk_search('search-string', tree, 3)
 ```
 
 Search tree for nearest-neighbor
