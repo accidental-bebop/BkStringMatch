@@ -27,7 +27,6 @@ tree = BKTree(string_list)
 Search tree for exact matches
 ```
 exact_match = bk_search('search-string', tree, 1)
-
 ```
 
 Search tree for fuzzy matches with maximum distance of 3
