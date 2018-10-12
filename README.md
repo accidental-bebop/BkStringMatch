@@ -4,7 +4,12 @@ BkStringMatch is a pure-python implementation for efficient string matching and 
 
 ## Features
 
-* Supports Levenshtein distance, longest common substring length, Hamming distance, q-gram distance, and Jaccard distance
+* Supports the following distance metrics:
+    * Levenshtein distance
+    * longest common substring length
+    * Hamming distance
+    * q-gram distance
+    * Jaccard distance
 * Supports exact matching, fuzzy searches, and nearest-neighbor searches
 * Lightweight codebase and simple syntax
 
